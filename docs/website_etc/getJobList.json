@@ -1,0 +1,886 @@
+{
+  "code": 200,
+  "data": {
+    "numFound": 2593,
+    "results": [
+      {
+        "number": "CZ314334410J00102035313",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "60",
+              "name": "其他"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,其他"
+        },
+        "company": {
+          "number": "CZ314334410",
+          "url": "https://company.zhaopin.com/CZ314334410.htm",
+          "name": "河南广播传媒集团有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "1",
+            "name": "国企"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ314334410J00102035313.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "软件测试工程师",
+        "industry": "210300,200302,210500,201100",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.767237",
+          "lon": "113.678112"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 09:57:15",
+        "createDate": "2018-11-14 14:29:25",
+        "endDate": "2019-02-12 14:29:25",
+        "welfare": [
+          "五险一金",
+          "绩效奖金",
+          "餐补",
+          "带薪年假",
+          "定期体检"
+        ],
+        "saleType": 100,
+        "feedbackRation": 0.2053,
+        "score": 11040.04,
+        "resumeCount": 0,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"五险一金\",\"绩效奖金\",\"餐补\",\"带薪年假\",\"定期体检\",\"不加班\",\"节日福利\",\"周末双休\"],\"companyTag\":null,\"skill\":[\"loadrunner \",\"jmeter \",\"Selenium \",\"测试 \"],\"refreshLevel\":0,\"chatWindow\":20}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CC656358823J00202984303",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "44",
+              "name": "高级软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,高级软件工程师"
+        },
+        "company": {
+          "number": "CZ656358820",
+          "url": "https://company.zhaopin.com/CZ656358820.htm",
+          "name": "郑州赛奥电子股份有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC656358823J00202984303.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "8K-15K",
+        "emplType": "全职",
+        "jobName": "高级软件工程师",
+        "industry": "121200,120500,130100",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.794326",
+          "lon": "113.505578"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 00:51:32",
+        "createDate": "2018-12-05 14:09:22",
+        "endDate": "2019-01-04 14:09:22",
+        "welfare": [
+          "五险一金",
+          "绩效奖金",
+          "包住",
+          "餐补",
+          "节日福利"
+        ],
+        "saleType": 100,
+        "feedbackRation": 0.8727,
+        "score": 11000.367,
+        "resumeCount": 0,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "http://company.zhaopin.com/CompanyLogo/20161105/F4FA5219A4AF4D36BA583437AB735B79.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"五险一金\",\"绩效奖金\",\"包住\",\"餐补\",\"节日福利\",\"周末双休\"],\"companyTag\":null,\"skill\":[\"C#/.NET\",\"嵌入式\",\"数据库\",\"C++\",\"云计算\",\"MySQL\"],\"refreshLevel\":6,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "87%"
+      },
+      {
+        "number": "CC187870115J00091845004",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2040",
+              "name": "Java开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,Java开发工程师"
+        },
+        "company": {
+          "number": "CZ187870110",
+          "url": "https://company.zhaopin.com/CZ187870110.htm",
+          "name": "河南金明源信息技术有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC187870115J00091845004.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "10K-15K",
+        "emplType": "全职",
+        "jobName": "高级java开发工程师",
+        "industry": "160400,160000,160200,210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.845097",
+          "lon": "113.745684"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-18 17:16:09",
+        "createDate": "2018-12-18 17:16:08",
+        "endDate": "2019-01-17 17:16:08",
+        "welfare": [
+          "加班补助",
+          "带薪年假",
+          "定期体检",
+          "节日福利",
+          "免费班车"
+        ],
+        "saleType": 100,
+        "feedbackRation": 0.7133,
+        "score": 10949.917,
+        "resumeCount": 0,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://zhaopin-rd5-pub.oss-cn-beijing.aliyuncs.com/imgs/company/31b22d34849e34712d960c0b52af58f1.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"加班补助\",\"带薪年假\",\"定期体检\",\"节日福利\",\"免费班车\",\"年底双薪\",\"周末双休\",\"五险一金\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":0,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "71%"
+      },
+      {
+        "number": "CZ314334410J00102028513",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "864",
+              "name": "WEB前端开发"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,WEB前端开发"
+        },
+        "company": {
+          "number": "CZ314334410",
+          "url": "https://company.zhaopin.com/CZ314334410.htm",
+          "name": "河南广播传媒集团有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "1",
+            "name": "国企"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ314334410J00102028513.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "前端工程师",
+        "industry": "210300,200302,210500,201100",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.767237",
+          "lon": "113.678112"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 09:58:18",
+        "createDate": "2018-11-14 14:18:11",
+        "endDate": "2019-02-12 14:18:11",
+        "welfare": [
+          "五险一金",
+          "绩效奖金",
+          "餐补",
+          "带薪年假",
+          "定期体检"
+        ],
+        "saleType": 100,
+        "feedbackRation": 0,
+        "score": 10329.878,
+        "resumeCount": 203,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"五险一金\",\"绩效奖金\",\"餐补\",\"带薪年假\",\"定期体检\",\"不加班\",\"节日福利\",\"周末双休\"],\"companyTag\":null,\"skill\":[\"HTML\",\"HTML5\",\"Javascript\",\"CSS\",\"Element UI\",\"Angularjs\"],\"refreshLevel\":0,\"chatWindow\":20}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": ""
+      },
+      {
+        "number": "CZ839326590J00100214015",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ839326590",
+          "url": "https://company.zhaopin.com/CZ839326590.htm",
+          "name": "好看的动漫有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ839326590J00100214015.htm",
+        "workingExp": {
+          "code": "103",
+          "name": "1-3年"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "8K-10K",
+        "emplType": "全职",
+        "jobName": "web前端",
+        "industry": "210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.810898",
+          "lon": "113.660528"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-16 09:26:56",
+        "createDate": "2018-12-16 08:54:35",
+        "endDate": "2019-01-15 08:54:35",
+        "welfare": [
+          "五险一金",
+          "绩效奖金"
+        ],
+        "saleType": 100,
+        "feedbackRation": 0.9111,
+        "score": 10136.548,
+        "resumeCount": 0,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1002,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"五险一金\",\"绩效奖金\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":0,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最近",
+        "rate": "91%"
+      },
+      {
+        "number": "CZ644543180J00024980314",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "79",
+              "name": "软件研发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件研发工程师"
+        },
+        "company": {
+          "number": "CZ644543180",
+          "url": "https://company.zhaopin.com/CZ644543180.htm",
+          "name": "河南得实信息技术有限公司",
+          "size": {
+            "code": "1",
+            "name": "20人以下"
+          },
+          "type": {
+            "code": "",
+            "name": ""
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ644543180J00024980314.htm",
+        "workingExp": {
+          "code": "305",
+          "name": "3-5年"
+        },
+        "eduLevel": {
+          "code": "4",
+          "name": "本科"
+        },
+        "salary": "5K-9K",
+        "emplType": "全职",
+        "jobName": "java开发工程师",
+        "industry": "160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.763672",
+          "lon": "113.706265"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 14:59:10",
+        "createDate": "2018-11-27 11:17:28",
+        "endDate": "2018-12-27 11:17:28",
+        "welfare": [
+          "创业公司",
+          "年底双薪",
+          "绩效奖金",
+          "年终分红",
+          "通讯补助"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.8934,
+        "score": 669.5213,
+        "resumeCount": 0,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 0,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"创业公司\",\"年底双薪\",\"绩效奖金\",\"年终分红\",\"通讯补助\",\"定期体检\",\"员工旅游\",\"节日福利\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":1,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "89%"
+      },
+      {
+        "number": "CZ630364080J00080679810",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2040",
+              "name": "Java开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,Java开发工程师"
+        },
+        "company": {
+          "number": "CZ630364080",
+          "url": "https://company.zhaopin.com/CZ630364080.htm",
+          "name": "河南华创教育科技有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CZ630364080J00080679810.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Java开发助理（不限经验+双休五险一金）",
+        "industry": "160000,210500",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.795947",
+          "lon": "113.601061"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 13:11:00",
+        "createDate": "2018-12-10 16:20:40",
+        "endDate": "2019-03-20 16:20:40",
+        "welfare": [
+          "创业公司",
+          "周末双休",
+          "五险一金",
+          "通讯补助",
+          "餐补"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.7953,
+        "score": 656.8779,
+        "resumeCount": 91,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "https://fileihr.zhaopin.com/063/036/063036408/logo/35459035-3949-4288-9bb3-f0a9d5344422.jpg",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"创业公司\",\"周末双休\",\"五险一金\",\"通讯补助\",\"餐补\",\"带薪年假\",\"节日福利\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":3,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "79%"
+      },
+      {
+        "number": "CC823405840J00085336213",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ823405840",
+          "url": "https://company.zhaopin.com/CZ823405840.htm",
+          "name": "郑州聚力软件科技有限公司",
+          "size": {
+            "code": "3",
+            "name": "100-499人"
+          },
+          "type": {
+            "code": "5",
+            "name": "民营"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC823405840J00085336213.htm",
+        "workingExp": {
+          "code": "1",
+          "name": "1年以下"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "Java编程开发实习生/双休五险",
+        "industry": "160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.784247",
+          "lon": "113.682559"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 15:32:33",
+        "createDate": "2018-12-07 11:45:07",
+        "endDate": "2019-01-06 11:45:07",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "全勤奖",
+          "带薪年假",
+          "弹性工作"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9881,
+        "score": 652.26685,
+        "resumeCount": 54,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"周末双休\",\"五险一金\",\"全勤奖\",\"带薪年假\",\"弹性工作\",\"节日福利\",\"员工旅游\",\"补充医疗保险\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":1,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "98%"
+      },
+      {
+        "number": "CC507325087J00076708910",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "2040",
+              "name": "Java开发工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,Java开发工程师"
+        },
+        "company": {
+          "number": "CZ507325080",
+          "url": "https://company.zhaopin.com/CZ507325080.htm",
+          "name": "河南纵游软件科技有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "9",
+            "name": "上市公司"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC507325087J00076708910.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "5",
+          "name": "大专"
+        },
+        "salary": "6K-8K",
+        "emplType": "全职",
+        "jobName": "Java开发工程师助理+五险一金",
+        "industry": "210500,160400",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "34.803730",
+          "lon": "113.665576"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            }
+          ],
+          "display": "郑州"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 15:34:04",
+        "createDate": "2018-12-19 10:02:01",
+        "endDate": "2019-10-15 10:02:01",
+        "welfare": [
+          "五险一金",
+          "年底双薪",
+          "绩效奖金",
+          "加班补助",
+          "全勤奖"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9669,
+        "score": 651.7724,
+        "resumeCount": 29,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"五险一金\",\"年底双薪\",\"绩效奖金\",\"加班补助\",\"全勤奖\",\"包住\",\"带薪年假\",\"节日福利\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":1,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "96%"
+      },
+      {
+        "number": "CC681050636J00068409114",
+        "jobType": {
+          "items": [
+            {
+              "code": "160000",
+              "name": "软件/互联网开发/系统集成"
+            },
+            {
+              "code": "45",
+              "name": "软件工程师"
+            }
+          ],
+          "display": "软件/互联网开发/系统集成,软件工程师"
+        },
+        "company": {
+          "number": "CZ681050630",
+          "url": "https://company.zhaopin.com/CZ681050630.htm",
+          "name": "郑州美思信息技术有限公司",
+          "size": {
+            "code": "2",
+            "name": "20-99人"
+          },
+          "type": {
+            "code": "8",
+            "name": "股份制企业"
+          }
+        },
+        "positionURL": "https://jobs.zhaopin.com/CC681050636J00068409114.htm",
+        "workingExp": {
+          "code": "-1",
+          "name": "不限"
+        },
+        "eduLevel": {
+          "code": "12",
+          "name": "中专"
+        },
+        "salary": "4K-6K",
+        "emplType": "全职",
+        "jobName": "【五险/住宿】java实习生",
+        "industry": "160400,210500,160000,300300",
+        "recruitCount": 0,
+        "geo": {
+          "lat": "0",
+          "lon": "0"
+        },
+        "city": {
+          "items": [
+            {
+              "code": "719",
+              "name": "郑州"
+            },
+            {
+              "code": "2197",
+              "name": "金水区"
+            }
+          ],
+          "display": "郑州-金水区"
+        },
+        "applyType": "1",
+        "updateDate": "2018-12-19 15:15:53",
+        "createDate": "2018-11-19 18:12:29",
+        "endDate": "2018-12-19 18:12:29",
+        "welfare": [
+          "周末双休",
+          "五险一金",
+          "年底双薪",
+          "包住",
+          "员工旅游"
+        ],
+        "saleType": 0,
+        "feedbackRation": 0.9811,
+        "score": 646.846,
+        "resumeCount": 36,
+        "showLicence": 0,
+        "interview": 0,
+        "companyLogo": "",
+        "tags": [],
+        "vipLevel": 1003,
+        "expandCount": 0,
+        "tagIntHighend": 0,
+        "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"周末双休\",\"五险一金\",\"年底双薪\",\"包住\",\"员工旅游\",\"年终分红\",\"弹性工作\",\"带薪年假\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":2,\"chatWindow\":0}",
+        "duplicated": false,
+        "futureJob": false,
+        "selected": false,
+        "applied": false,
+        "collected": false,
+        "isShow": false,
+        "timeState": "最新",
+        "rate": "98%"
+      }
+    ],
+    "debugInfo": [],
+    "loginfo": [],
+    "facets": [],
+    "extend": "",
+    "method": "",
+    "taskId": "3c9bb5d0-c349-4079-9a85-5808aefcee96",
+    "scores": null
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "loaded": true,
+  "companyCode": "CZ607894330",
+  "cookieCity": {
+    "id": 489,
+    "name": "全国"
+  },
+  "user": {
+    "name": "",
+    "Resume": {}
+  },
+  "cityInfo": "",
+  "industryInfo": "",
+  "company": {
+    "address": "金水区花园路东·丰产路北兰德国际中心2205室",
+    "city": "郑州",
+    "cityId": 719,
+    "companyId": 60789433,
+    "companyNumber": "CZ607894330",
+    "companySize": "10000人以上",
+    "companySizeId": 6,
+    "companyTelephone": "",
+    "companyType": "股份制企业",
+    "companyTypeId": 8,
+    "companyUrl": "http://www.imdaqin.net",
+    "coordinate": {
+      "latitude": 34.784247,
+      "longitude": 113.682559
+    },
+    "dataRefer": 1,
+    "description": "<p><br/><span style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; background-color: rgb(255, 255, 255);\">上海大勤实业有限公司是一家专业致力于环保日化产品的研发、生产与销售的高科技企业。公司全资拥有西安优派日化和西安优派生物科技两家子公司。同时，大勤还拥有一支闻名业内的顶尖销售团队。</span><strong style=\"display: inline-block; margin: 12px 0px 0px; color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\">产品涉及家居日化、清洁养护、汽车护理、个人健康等众多领域，已形成四大品类，近50种产品的强大产品阵容。</strong><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><span style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; background-color: rgb(255, 255, 255);\">自2004年成立以来，</span><strong style=\"display: inline-block; margin: 12px 0px 0px; color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\">公司先后获得了ISO9001质量管理体系认证、ISO14001环境质量管理体系认证、消毒产品生产企业卫生许可证，中国环保产业协会绿色之星认证、国家发明专利等多项资质荣誉。<br/></strong><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><span style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; background-color: rgb(255, 255, 255);\">公司坐拥西安高陵泾渭开发区和草滩生态产业园两个现代化的生产工厂。拥有专业的生产线、高科技的纳米技术实验室、10万级专业净化车间以及年产值近十亿的庞大生产能力。销售网络遍及全国100多个城市，已形成400多家分公司和近15000名业务员的庞大规模，并成功造就了400多位白手起家的百万富翁。</span><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><strong style=\"display: inline-block; margin: 12px 0px 0px; color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\">大勤健康科技中心</strong><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><span style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; background-color: rgb(255, 255, 255);\">我们高度重视技术创新和产品研发，2007年在西安经济技术开发区倾力打造具备一流研发实力的大勤健康科技中心，引入国际先进的纳米乳化设备，建立高水准的技术研发团队。通过创新化研发、专业化生产、绿色化选材，力求将每一个环节做到极致。</span><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><span style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; background-color: rgb(255, 255, 255);\">大勤健康科技中心一直在打造让生活更清洁，更舒适的优质产品，研发领域涵盖家居日化、汽车用品、个人卫生等多个领域，并拥有3项专利技术，目前已研发出：多功能清洁膏、植物净洁洗衣液、顽固污渍干洗剂、油污清洁剂、全能清洁剂、皮具护理系列等50多个产品，受到消费者的广泛信赖和推崇。</span><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><br style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; white-space: normal;\"/><span style=\"color: rgb(51, 51, 51); font-family: simsun; font-size: 14px; background-color: rgb(255, 255, 255);\">我们将继续坚持大量投入于科技创新和产品研发，并积极于国内外多家高校和科研机构保持长期的合作，不遗余力的将优秀的科技成果引入生活，为社会创造更多有价值的优质产品！</span></p><p><br/></p>",
+    "industries": ["环保", "环保", "学术/科研", "耐用消费品（服饰/纺织/皮革/家具/家电）"],
+    "industryIds": [201200, 201200, 120600, 120200],
+    "introduceUrl": "http://company.zhaopin.com/CZ607894330.htm",
+    "logoUrl": "https://fileihr.zhaopin.com/060/789/060789433/logo/068acb3b-82f4-413a-b4b4-1833e5331346.jpeg",
+    "province": "",
+    "provinceId": 0,
+    "rootCompanyId": 60789433,
+    "rootCompanyNumber": "CZ60789433",
+    "status": 30,
+    "tags": [],
+    "title": "郑州德聚仁合环保科技有限公司",
+    "vipInfo": {
+      "level": 1002,
+      "name": "白银会员"
+    },
+    "orgInfoPics": null
+  },
+  "comLayer": {
+    "refreshType": false,
+    "targetType": "",
+    "collectParam": "",
+    "applyParam": {
+      "num": "",
+      "cityId": ""
+    },
+    "show": false,
+    "loginState": 0,
+    "switchOff": 0,
+    "title": "",
+    "apllyWarn": "",
+    "resume": [],
+    "coverletter": [],
+    "subsidiaryFlag": false
+  },
+  "recruitmentJob": [{
+    "number": "CZ607894330J00080449802",
+    "id": "80449802",
+    "jobType": {
+      "items": [{
+        "code": "4010200",
+        "name": "销售业务"
+      }, {
+        "code": "6",
+        "name": "销售代表"
+      }],
+      "display": "销售业务,销售代表"
+    },
+    "company": {
+      "number": "CZ607894330",
+      "id": 60789433,
+      "url": "http://company.zhaopin.com/CZ607894330.htm",
+      "name": "郑州德聚仁合环保科技有限公司",
+      "size": {
+        "code": "6",
+        "name": "10000人以上"
+      },
+      "type": {
+        "code": "8",
+        "name": "股份制企业"
+      }
+    },
+    "positionURL": "http://jobs.zhaopin.com/CZ607894330J00080449802.htm",
+    "workingExp": {
+      "code": "103",
+      "name": "1-3年"
+    },
+    "eduLevel": {
+      "code": "12",
+      "name": "中专"
+    },
+    "salary": {
+      "min": 6001,
+      "max": 8000,
+      "discuss": 0
+    },
+    "emplType": "全职",
+    "jobDesc": " 郑州德聚仁合环保科技有限公司隶属于大勤实业，其产品发展和市场需求以及普及程度不断加快，给公司带来重大发展机会，公司有专业的研发团队，产品质量连续十一年获得行业第一！！前景一片大好的同时，市场开发也迫在眉睫！近几年开设分公司速度不断增加，人才储备成为公司不断发展的难题，只要你有能力，一两年在公司成为职业经理人不成问题（我们经理人开设属于自己的分公司，总部投资人力物力）。薪酬待遇：试用期一到三个月，期间底薪3500+提成（25%--35%）+全勤奖+月度奖励（iphone ，ipad，旅游度假，奖金）+季度奖励+年度分红奖励+提升奖励+老板待遇+工作自由来到公司你能获得一，良好的企业氛围，高昂的激情状态！二，优质的晋升制度，我们的目标——成为职业经理人！三，多面的社会阅历，公司有免费出差的机会，行万里路，阅人无数！岗位职责：1，负责老客户的维护，新客户的开发（前期有人带）；2，向客户简单介绍我们产品的适用范围和使用方法；3，解决客户对产品所提出的问题；4，定期与客户沟通，建立良好的长期合作关系；5，锻炼自己的能力，让自己变得无所不能；我们对刚加入公司的同事要求很简单--有上进心！如果你对现在的生活还不够满意，对未来充满着憧憬，如果你还有足够的激情，如果你还敢于吃苦勇于挑战，那么我们相信，大勤实业是你不二的选择，我们这里诞生了300多位白手起家的经理，我们不差什么，相信你也可以！2018我们必将辉煌！任职资格：1,18--27周岁，口齿清晰，普通话流利；2，喜欢销售这份让人又恨又爱的工作；3，极强的学习能力和自我约束能力；4，坚韧的性格，强烈的欲望，积极的心态；5，有责任心，不怕犯错，就怕你不敢犯错；6，胆量大，心细腻7，不限学历，可接受应届毕业生，退伍军人优先；晋升制度销售代表--销售主管（1-3个月）销售总监（3-8个月）副经理（8--12个月）经理（总部投资物力人力财力，开设属于自己的分公司，自己做法人代表管理属于自己的分公司，需要做满一年以上）销售，21世纪全球最庞大的职业类别；各个行业的命脉；全球身价在“10亿美元”以上的497名超级富豪中，竟有237名是白手起家，从销售做起；世界上每10个工作者中必然有一个是销售人员，从业销售可以获得高收入，不仅让我们学习，锻炼和成长，建立丰富的人际人脉，更可以在年轻的时候为你实现梦想。对于热爱销售的你来说销售更是一种感觉，一种经验的积累，一种综合素质的体现，一种性格潜能的释放。怎么做销售？用你的努力去经营一份属于自己的事业！一天赚50块，赚500块，赚5000块……随着能力的提升将来可以一天赚到50000块，这里有系统的培训，优质的企业氛围，互帮互助的企业理念，帮你完成赚钱的梦想。联系电话：**************/***********公司地址：郑州市金水区花园路与丰产路交叉口兰德中心2205室面试时间：周一到周六上午10点-12点或下午13点-17点乘车路线：地铁2号线关虎屯A口或C口出；公交线路坐62，29，2，131，30，900到丰产路站或关虎屯站或花园路站下车。",
+    "jobName": "外派销售专员+短期出差6千+包住+旅游出差全包(职位编号：16)",
+    "industry": "201200,120600,120200",
+    "recruitCount": 0,
+    "geo": {
+      "lat": "34.784247",
+      "lon": "113.682559"
+    },
+    "city": {
+      "items": [{
+        "code": "719",
+        "name": "郑州"
+      }],
+      "display": "郑州"
+    },
+    "applyType": "1",
+    "updateDate": "2018-11-28 09:21:24",
+    "createDate": "2018-11-23 15:12:24",
+    "endDate": "2018-12-23 15:12:24",
+    "welfare": "五险一金,节日福利,包吃,交通补助,带薪年假,弹性工作",
+    "saleType": 0,
+    "feedbackRation": 0.8889,
+    "score": 0.35355338,
+    "resumeCount": 0,
+    "showLicence": 0,
+    "interview": 0,
+    "companyLogo": "https://fileihr.zhaopin.com/060/789/060789433/logo/068acb3b-82f4-413a-b4b4-1833e5331346.jpeg",
+    "tags": [],
+    "vipLevel": 1002,
+    "expandCount": 0,
+    "tagIntHighend": 0,
+    "positionLabel": "{\"qualifications\":null,\"role\":null,\"level\":null,\"jobLight\":[\"五险一金\",\"节日福利\",\"包吃\",\"交通补助\",\"带薪年假\",\"弹性工作\"],\"companyTag\":null,\"skill\":null,\"refreshLevel\":0,\"chatWindow\":20}",
+    "duplicated": false,
+    "futureJob": false
+  }],
+  "recruitmentCityList": {
+    "data": [{
+      "name": "郑州",
+      "code": "719",
+      "total": 1
+    }],
+    "total": 1,
+    "method": "rd_position"
+  },
+  "recruitmentCitySelected": {
+    "name": "郑州",
+    "code": "719",
+    "total": 1
+  },
+  "userCityPage": {},
+  "hasFetchedUserCityPage": false,
+  "basic": {
+    "uid": "2323",
+    "appid": "A23",
+    "pagecode": 4021,
+    "wdgtid": "A2-4",
+    "evtid": "click",
+    "chnlname": ""
+  },
+  "props": {
+    "jobid": "",
+    "isgray": 1,
+    "companyid": ""
+  }
+}

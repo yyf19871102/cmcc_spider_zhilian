@@ -1,0 +1,1010 @@
+[
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "Java开发"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "UI设计师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "Web前端"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "PHP"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "Python"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "Android"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "美工"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "深度学习"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "算法工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "Hadoop"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "Node.js"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "数据开发"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "数据分析师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "数据架构"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "人工智能"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "区块链"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "电气工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "电子工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "PLC"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "测试工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "设备工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "硬件工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "结构工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "工艺工程师"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "产品经理"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "新媒体运营"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "运营专员"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "淘宝运营"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "天猫运营"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "产品助理"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "产品运营"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "淘宝客服"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "游戏运营"
+    },
+    {
+        "cateLv1": "互联网IT",
+        "cateLv2": "编辑"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "投资经理"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "风控"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "催收"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "银行柜员"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "银行销售"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "信审"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "信用卡"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "贷款"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "金融产品"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "汽车金融"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "金融研究"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "证券"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "交易员"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "投资经理"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "期货"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "操盘手"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "基金"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "股票"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "投资顾问"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "信托"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "典当"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "担保"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "信贷"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "权证"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "财产保险"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "保险内勤"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "理赔"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "精算师"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "保险销售"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "理财顾问"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "查勘定损"
+    },
+    {
+        "cateLv1": "金融",
+        "cateLv2": "车险"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "土建工程师"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "施工员"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "资料员"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "预算员"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "造价员"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "一级建造师"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "室内设计师"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "土建"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "暖通"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "项目经理"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "电气工程师"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "建筑设计"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "置业顾问"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "房地产销售"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "房地产招商"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "开发报建"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "房地产策划"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "房地产开发"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "房地产评估"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "地产经纪"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "物业"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "物业经理"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "保安"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "客服"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "物业管理"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "物业客服"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "电工"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "物业主管"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "物业维修"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "消防"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "客服主管"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "前台"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "文员"
+    },
+    {
+        "cateLv1": "房地产/建筑",
+        "cateLv2": "物业项目经理"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "采购"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "外贸"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "外贸业务员"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "外贸跟单"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "采购助理"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "外贸日语"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "采购专员"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "外贸英语"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "外贸助理"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "采购经理"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "买手"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "导购"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "营业员"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "店长"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "收银员"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "销售"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "导购员"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "督导"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "客服"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "新零售产品"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "理货员"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "供应链"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "物流专员"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "物流经理"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "物流运营"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "物流跟单"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "物流管理"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "物仓调度"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "货运代理"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "报检报关"
+    },
+    {
+        "cateLv1": "贸易/零售/物流",
+        "cateLv2": "仓储管理"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "教师"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "英语老师"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "课程顾问"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "英语"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "教务"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "美术老师"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "幼教"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "小学教师"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "班主任"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "助教"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "编导"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "摄影师"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "编剧"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "摄影"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "后期制作"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "制片"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "记者"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "剪辑"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "化妆师"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "广告创意"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "美术指导"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "策划经理"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "文案"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "广告制作"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "媒介"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "广告审核"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "平面设计"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "网页设计"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "插画师"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "工业设计"
+    },
+    {
+        "cateLv1": "教育/传媒/广告",
+        "cateLv2": "视觉设计"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "美容师"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "美容学徒"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "美容导师"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "纹绣师"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "医美"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "美甲师"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "健身教练"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "导游"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "旅游顾问"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "旅游计调"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "签证"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "旅游销售"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "票务"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "服务员"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "收银员"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "店长"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "酒店前台"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "酒店管理"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "餐饮管理"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "收银"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "保安"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "保洁"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "月嫂"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "保姆"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "家政"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "婚礼策划"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "育婴师"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "催乳师"
+    },
+    {
+        "cateLv1": "服务业",
+        "cateLv2": "司机"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "市场营销"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "市场策划"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "市场顾问"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "市场总监"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "市场推广"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "SEO"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "品牌经理"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "SEM"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "商务渠道"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "网络营销"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "活动策划"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "APP推广"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "销售专员"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "销售经理"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "客户代表"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "销售代表"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "BD经理"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "大客户销售"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "渠道销售"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "销售助理"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "电话销售"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "销售顾问"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "商品经理"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "广告销售"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "网络营销"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "营销主管"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "销售总监"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "商务总监"
+    },
+    {
+        "cateLv1": "市场/销售",
+        "cateLv2": "城市经理"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "人力资源主管"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "招聘"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "HRBP"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "人力资源专员"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "培训"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "薪资福利"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "绩效考核"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "人力资源经理"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "人力资源总监"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "员工关系"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "组织发展"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "会计"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "出纳"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "财务顾问"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "结算"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "税务"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "风控"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "财务经理"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "财务主管"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "财务分析"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "法务专员"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "律师"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "法律顾问"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "法务主管"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "行政专员"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "前台"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "行政主管"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "经理助理"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "后勤"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "司机"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "行政经理"
+    },
+    {
+        "cateLv1": "人事/财务/行政",
+        "cateLv2": "行政总监"
+    }
+]
